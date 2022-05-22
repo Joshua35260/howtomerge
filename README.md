@@ -1,2 +1,2 @@
-# howtomerge
+LOCAL
 test repo merge
