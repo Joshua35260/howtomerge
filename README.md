@@ -1,2 +1,2 @@
-# howtomerge
+REMOTE
 test repo merge
